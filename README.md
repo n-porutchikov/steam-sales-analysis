@@ -1,6 +1,6 @@
 # Анализ продаж видеоигр в Steam
 
-## Стек:
+## Инструменты:
 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
